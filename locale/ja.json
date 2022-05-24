@@ -1,0 +1,15 @@
+{
+    "menu": {
+        "en": "英語",
+        "ru": "ロシア",
+        "home": "家",
+        "about": "約"
+    },
+    "main": {
+        "welcome": "{company}からこんにちは！",
+        "new_message": "メッセージなし| 1つのメッセージ| {count}メッセージ"
+    },
+    "about": {
+        "welcome": "概要ページへようこそ！"
+    }
+}
