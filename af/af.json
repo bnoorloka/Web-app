@@ -1,0 +1,15 @@
+{
+    "menu": {
+        "en": "Engels",
+        "ru": "Russies",
+        "home": "Tuis",
+        "about": "Oor"
+    },
+    "main": {
+        "welcome": "Hallo van {company} !",
+        "new_message": "geen boodskappe | een boodskap | {count} boodskappe"
+    },
+    "about": {
+        "welcome": "Welkom by die Meer oor-bladsy!"
+    }
+}
