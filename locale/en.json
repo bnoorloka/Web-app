@@ -11,5 +11,6 @@
     },
     "about": {
         "welcome": "Welcome to the About page!"
-    }
+    },
+    "PERM_CONTACTS_TITLE": "Allowing Roamer access to contacts"
 }
