@@ -1,0 +1,15 @@
+{
+    "menu": {
+        "en": "Test",
+        "ru": "Test",
+        "home": "Test",
+        "about": "Test"
+    },
+    "main": {
+        "welcome": "Test",
+        "new_message": "Test"
+    },
+    "about": {
+        "welcome": "Test"
+    }
+}
