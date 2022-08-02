@@ -1,0 +1,15 @@
+{
+    "menu": {
+        "en": "Inglês",
+        "ru": "Russo",
+        "home": "Início",
+        "about": "Sobre"
+    },
+    "main": {
+        "welcome": "Olá da {companhia}!",
+        "new_message": "sem mensagens | uma mensagem | {count} mensagens"
+    },
+    "about": {
+        "welcome": "Bem-vindo à página Sobre!"
+    }
+}
