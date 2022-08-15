@@ -1,0 +1,15 @@
+{
+    "menu": {
+        "en": "inglese",
+        "ru": "russo",
+        "home": "Casa",
+        "about": "Di"
+    },
+    "main": {
+        "welcome": "Ciao da {company} !",
+        "new_message": "nessun messaggio | un messaggio | {count} messaggi"
+    },
+    "about": {
+        "welcome": "Benvenuto nella pagina Informazioni!"
+    }
+}
